@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖐️, I'm Wiktor</h1>
+<h1 align="center" color="#5e8ce4">Hi 🖐️, I'm Wiktor</h1>
 <h3 align="center">Game Developer & Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorsethe&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorsethe" /> </p>
