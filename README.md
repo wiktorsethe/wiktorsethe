@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorsethe&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorsethe" /> </p>
 
-- 🔭 I’m currently working on [My second portfolio game](http://github.com/wiktorsethe/portfolio-game2)
+- 🔭 I’m currently working on [Battle Arena 3D game](http://github.com/wiktorsethe/portfolio-game3)
 
 - 📫 How to reach me **wiktor_szczepanik@wp.pl**
 
