@@ -18,4 +18,3 @@
 
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=wiktorsethe&show_icons=true&locale=en&theme=tokyonight" alt="wiktorsethe" /></p>
 
-<p align="center">&nbsp;<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorsethe&theme=tokyonight" alt="wiktorsethe" /></p>
