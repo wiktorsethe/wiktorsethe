@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **wiktor_szczepanik@wp.pl**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
