@@ -14,7 +14,7 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dart,flutter,js,mysql,php,nginx,html,css,git," /><br>
-    <img src="https://skillicons.dev/icons?i=unity,androidstudio,idea,phpstorm,rider,figma,firebase,github,linux,windows,apple,discord," /><br>
+    <img src="https://skillicons.dev/icons?i=unity,androidstudio,idea,phpstorm,rider,figma,firebase,linux,windows,apple," /><br>
   </a>
 </div>
 
