@@ -11,7 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" /><br>
 
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorsethe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wiktorsethe" /></p>
 
