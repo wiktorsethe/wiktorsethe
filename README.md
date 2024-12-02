@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐️, I'm Wiktor</h1>
-<h3 align="center">Unity Developer</h3>
+<h3 align="center">Game Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorsethe&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorsethe" /> </p>
 
