@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorsethe&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorsethe" /> </p>
 
-- 🔭 I’m currently working on [Car Racing Online Game](https://github.com/wiktorsethe/CarOnlineGame)
+- 🔭 I’m currently working on [Turn Based Combat System](https://github.com/wiktorsethe/Turn-Based-AI-Combat-System)
 
 - 📫 How to reach me **wiktor_szczepanik@wp.pl**
 
